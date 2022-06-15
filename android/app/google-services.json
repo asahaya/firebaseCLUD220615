@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938959928035",
+    "project_id": "clud220615",
+    "storage_bucket": "clud220615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938959928035:android:b02a91ef1db48b8d7363d6",
+        "android_client_info": {
+          "package_name": "com.example.firebase220615"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938959928035-1cd3g67ggptaefnn3bckp9c0pe2rdd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSawUnkNe8SXnOzZrRvs_sM4qQIQGaoww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938959928035-1cd3g67ggptaefnn3bckp9c0pe2rdd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
